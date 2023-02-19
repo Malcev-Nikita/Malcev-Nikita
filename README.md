@@ -18,7 +18,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <div id="badges" align="center">
   <a href="https://vk.com/nikitos_pisos">
@@ -83,11 +82,17 @@
 
 <br/>
 <br/>
-<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Malcev-Nikita&theme=dark&hide_border=true&border_radius=10&locale=ru)](https://git.io/streak-stats)
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malcev-Nikita&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Malcev-Nikita&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Malcev-Nikita&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malcev-Nikita&show_icons=true" />
+  </picture>
+</div>
