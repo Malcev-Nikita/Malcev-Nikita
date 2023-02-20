@@ -11,7 +11,7 @@
 
 <ul>
   <h3>🦾 В настоящее время учу</h3>
-  <li>Entity Framework с Asp.Net Core</li>
+  <li>Asp.Net Core с Entity Framework</li>
   <li>Node JS</li>
   <li>React / React Native</li>
 </ul>
