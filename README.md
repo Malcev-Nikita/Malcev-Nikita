@@ -11,8 +11,8 @@
 
 <ul>
   <h3>Разработал такие проекты, как:</h3>
-  <li><a href="https://turbosites.ru/">Landing для типового решения на битрикс cms</a></li>
-  <li><a href="https://test.turbosites.ru/">Разработка типового решения на битрикс cms</a></li>
+  <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
+  <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS</a></li>
   <ul>
     <h4>Также сайты созданные на нашем решении:</h4>
     <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
