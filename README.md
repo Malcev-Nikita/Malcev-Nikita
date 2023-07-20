@@ -10,6 +10,15 @@
 <br/>
 
 <ul>
+  <h3>Разработал такие проекты, как</h3>
+  <li><a href="https://turbosites.ru/">Landing для типового решения на битрикс cms</a></li>
+  <li>Node JS</li>
+  <li>React / React Native</li>
+</ul>
+
+<br/>
+
+<ul>
   <h3>🦾 В настоящее время учу</h3>
   <li>Asp.Net Core с Entity Framework</li>
   <li>Node JS</li>
