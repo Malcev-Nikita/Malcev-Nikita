@@ -11,7 +11,7 @@
 
 <ul>
   <h3>Разработал такие проекты, как</h3>
-  <li><a href="https://turbosites.ru/">Landing для типового решения на битрикс cms</a></li>
+  <li><a href="https://turbosites.ru/" target="_blank">Landing для типового решения на битрикс cms</a></li>
   <li>Node JS</li>
   <li>React / React Native</li>
 </ul>
