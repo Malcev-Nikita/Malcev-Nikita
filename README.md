@@ -23,6 +23,16 @@
 <br/>
 
 <ul>
+  <h3>Учавствовал в разработке над проектами:</h3>
+  <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
+  <li><a href="https://astkapitan.ru/">Капитан</a></li>
+  <li><a href="https://fitnesslania.ru/">FitnessLania</a></li>
+  <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
+</ul>
+
+<br/>
+
+<ul>
   <h3>🦾 В настоящее время учу</h3>
   <li>Node JS</li>
   <li>React / React Native / Redux</li>
