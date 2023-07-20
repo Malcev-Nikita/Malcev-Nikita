@@ -24,9 +24,9 @@
 
 <ul>
   <h3>🦾 В настоящее время учу</h3>
-  <li>Asp.Net Core с Entity Framework</li>
   <li>Node JS</li>
-  <li>React / React Native</li>
+  <li>React / React Native / Redux</li>
+  <li>1С Битрикс CMS</li>
 </ul>
 
 <br/>
