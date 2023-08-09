@@ -43,7 +43,7 @@
 <br/>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/nikitos_pisos">
+  <a href="https://vk.com/nikitamalcev03">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://t.me/nikitamalcev3">
