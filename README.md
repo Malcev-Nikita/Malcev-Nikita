@@ -35,8 +35,7 @@
 
 <ul>
   <h3>🦾 В настоящее время учу</h3>
-  <li>Node JS</li>
-  <li>React / React Native / Redux</li>
+  <li>React Native / Redux / Node JS</li>
   <li>1С Битрикс CMS</li>
 </ul>
 
