@@ -5,7 +5,8 @@
 <br/>
 <br/>
 
-<h1 align="center">FullStack разработчик Node JS / React</h1>
+<h1 align="center">FullStack разработчик</h1>
+<h2 align="center">PHP (Bitrix), Node JS / React, C# (ASP.NET Core)</h2>
 
 <br/>
 
