@@ -24,7 +24,7 @@
 <br/>
 
 <ul>
-  <h3>Учавствовал в разработке над проектами:</h3>
+  <h3>Учавствовал в разработке проектов:</h3>
   <li><a href="https://breakthroughdxb.com/celebrity-booking/">BREAKTHOUGH EXCLUSIVE</a></li>
   <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
