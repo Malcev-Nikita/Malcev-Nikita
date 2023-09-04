@@ -34,7 +34,6 @@
   <li><a href="https://breakthroughdxb.com/celebrity-booking/">BREAKTHOUGH EXCLUSIVE</a></li>
   <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
-  <li><a href="https://fitnesslania.ru/">FitnessLania</a></li>
   <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
 </ul>
 
