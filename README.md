@@ -35,6 +35,7 @@
   <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
   <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
+  <li><a href="https://bx2.xelloy.ru/">Milky Langelo</a> (Тестовый хост)</li>
 </ul>
 
 <br/>
