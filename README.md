@@ -23,7 +23,6 @@
     <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
     <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
     <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
-    <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
   </ul>
 </ul>
 
