@@ -12,13 +12,18 @@
 
 <ul>
   <h3>Разработал такие проекты, как:</h3>
-  <li><a href="">Разработка своего крупного проекта (первый демо доступ планирую в начале сентября)</a></li>
+  <li><a href="">Разработка своего крупного проекта (первый демо доступ планирую в сентября)</a></li>
   <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
   <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS (в разработке)</a></li>
   <ul>
     <h4>Также сайты созданные на нашем решении:</h4>
     <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
     <li><a href="https://global-travel.su/">Global Travel</a></li>
+    <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
+    <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
+    <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
+    <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
+    <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
   </ul>
 </ul>
 
