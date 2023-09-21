@@ -15,6 +15,8 @@
   <li><a href="">Разработка своего крупного проекта (первый демо доступ планирую в сентября)</a></li>
   <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
   <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS (в разработке)</a></li>
+  <li><a href="https://level30.ru/">Ивент агенство левел</a></li>
+  <li><a href="https://4estclub.ru/">Тату салон Честь</a></li>
   <ul>
     <h4>Также сайты созданные на нашем решении:</h4>
     <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
