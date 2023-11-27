@@ -12,13 +12,16 @@
 
 <ul>
   <h3>Разработал такие проекты, как:</h3>
-  <li><a href="">Разработка своего крупного проекта (первый демо доступ планирую в сентября)</a></li>
+  <li><a href="https://autocs.ru/">ACS - студия автозвука и тюнинга</a></li>
+  <li><a href="#">Nimfa</a></li>
   <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
   <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS (в разработке)</a></li>
   <li><a href="https://level30.ru/">Ивент агенство левел</a></li>
   <li><a href="https://4estclub.ru/">Тату салон Честь</a></li>
   <ul>
     <h4>Также сайты созданные на нашем решении:</h4>
+    <li><a href="https://les-chambres-des-bruyres.fr/">Les chambres des bruyres</a></li>
+    <li><a href="https://meat-and-more.ru/">Meat and More</a></li>
     <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
     <li><a href="https://global-travel.su/">Global Travel</a></li>
     <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
@@ -32,19 +35,21 @@
 
 <ul>
   <h3>Учавствовал в разработке проектов:</h3>
+  <li><a href="https://github.com/Malcev-Nikita/Yamal-Gazprom">Ямал Газпром - (Верстка проекта)</a></li>
+  <li><a href="https://khimichevskiebani.ru/">Химечёвские бани</a></li>
+  <li><a href="#">Macmarcket</a></li>
   <li><a href="https://breakthroughdxb.com/">BREAKTHOUGH EXCLUSIVE</a></li>
   <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
   <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
-  <li><a href="https://bx2.xelloy.ru/">Milky Langelo</a> (Тестовый хост)</li>
+  <li><a href="#">Milky Langelo</a></li>
 </ul>
 
 <br/>
 
 <ul>
   <h3>🦾 В настоящее время учу</h3>
-  <li>React Native / Redux / Node JS</li>
-  <li>1С Битрикс CMS</li>
+  <li>Node JS / TypeScript</li>
 </ul>
 
 <br/>
