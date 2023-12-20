@@ -51,7 +51,7 @@
 
 <ul>
   <h3>🦾 В настоящее время учу</h3>
-  <li>Node JS / TypeScript</li>
+  <li>Next JS / Node JS</li>
   <li>ЯП C</li>
 </ul>
 
