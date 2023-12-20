@@ -12,8 +12,9 @@
 
 <ul>
   <h3>Разработал такие проекты, как:</h3>
+  <li><a href="http://plpl.contserv.tmweb.ru/">ПолимерПласт</a></li>
   <li><a href="https://autocs.ru/">ACS - студия автозвука и тюнинга</a></li>
-  <li><a href="#">Nimfa</a></li>
+  <li><a href="https://nimfadostavka.ru/">Nimfa</a></li>
   <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
   <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS (в разработке)</a></li>
   <li><a href="https://level30.ru/">Ивент агенство левел</a></li>
@@ -35,6 +36,7 @@
 
 <ul>
   <h3>Учавствовал в разработке проектов:</h3>
+  <li><a href="https://kardamon-shop.ru/">Кардамон</a></li>
   <li><a href="https://github.com/Malcev-Nikita/Yamal-Gazprom">Ямал Газпром - (Верстка проекта)</a></li>
   <li><a href="https://khimichevskiebani.ru/">Химечёвские бани</a></li>
   <li><a href="#">Macmarcket</a></li>
@@ -42,7 +44,7 @@
   <li><a href="https://partnerplus30.ru/">Партнёр плюс</a></li>
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
   <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
-  <li><a href="#">Milky Langelo</a></li>
+  <li><a href="https://www.milkylangelo.ru/">Milky Langelo</a></li>
 </ul>
 
 <br/>
