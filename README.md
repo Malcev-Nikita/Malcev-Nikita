@@ -12,30 +12,33 @@
 
 <ul>
   <h3>Разработал такие проекты, как:</h3>
-  <li><a href="http://plpl.contserv.tmweb.ru/">ПолимерПласт</a></li>
-  <li><a href="https://autocs.ru/">ACS - студия автозвука и тюнинга</a></li>
+  <li><a href="http://sleep-bag-shop.ru/">SleepBag</a> - на Next JS и Strapi</li>
+  <li><a href="https://joystudios.ai/">JOY Studios</a> - на HTML, CSS, JS и PHP</li>
+  <li><a href="https://autocs.ru/">ACS - студия автозвука и тюнинга</a> - на Битрикс и типовом решении Аспро Максимум</li>
   <li><a href="https://nimfadostavka.ru/">Nimfa</a></li>
-  <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a></li>
-  <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS (в разработке)</a></li>
-  <li><a href="https://level30.ru/">Ивент агенство левел</a></li>
-  <li><a href="https://4estclub.ru/">Тату салон Честь</a></li>
-  <ul>
-    <h4>Также сайты созданные на нашем решении:</h4>
-    <li><a href="https://les-chambres-des-bruyres.fr/">Les chambres des bruyres</a></li>
-    <li><a href="https://meat-and-more.ru/">Meat and More</a></li>
-    <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
-    <li><a href="https://global-travel.su/">Global Travel</a></li>
-    <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
-    <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
-    <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
-    <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
-  </ul>
+  <li><a href="https://turbosites.ru/">Landing для типового решения на 1С Битрикс CMS</a> - на HTML, CSS, JS и PHP</li>
+  <li><a href="https://test.turbosites.ru/">Типовое решения на 1С Битрикс CMS</a> - на Битркикс</li>
+  <li><a href="https://level30.ru/">Ивент агенство левел</a> - на HTML, CSS, JS, PHP</li>
+  <li><a href="https://4estclub.ru/">Тату салон Честь</a> - на Tilda</li>
+</ul>
+
+<ul>
+  <h3>Сайты созданные на решении "Турбосайт" - Корпоративный сайт:</h3>
+  <li><a href="https://les-chambres-des-bruyres.fr/">Les chambres des bruyres</a></li>
+  <li><a href="https://meat-and-more.ru/">Meat and More</a></li>
+  <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
+  <li><a href="https://global-travel.su/">Global Travel</a></li>
+  <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
+  <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
+  <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
+  <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
 </ul>
 
 <br/>
 
 <ul>
   <h3>Учавствовал в разработке проектов:</h3>
+  <li><a href="http://plpl.contserv.tmweb.ru/">ПолимерПласт</a></li>
   <li><a href="https://kardamon-shop.ru/">Кардамон</a></li>
   <li><a href="https://github.com/Malcev-Nikita/Yamal-Gazprom">Ямал Газпром - (Верстка проекта)</a></li>
   <li><a href="https://khimichevskiebani.ru/">Химечёвские бани</a></li>
