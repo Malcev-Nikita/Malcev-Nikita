@@ -68,9 +68,6 @@
   <a href="https://t.me/nikitamalcev3">
     <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://discord.gg/Wkh4SwNYXf">
-    <img src="https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
 </div>
 
 <br/>
