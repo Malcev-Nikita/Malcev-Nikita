@@ -13,6 +13,7 @@
 <ul>
   <h3>Разработал такие проекты, как:</h3>
   <li><a href="http://sleep-bag-shop.ru/">SleepBag</a> - на Next JS и Strapi</li>
+  <li><a href="https://vizitka.turbosites.ru/">Turbosite - Визитка</a> - Типовое решение на битрикс</li>
   <li><a href="https://joystudios.ai/">JOY Studios</a> - на HTML, CSS, JS и PHP</li>
   <li><a href="https://autocs.ru/">ACS - студия автозвука и тюнинга</a> - на Битрикс и типовом решении Аспро Максимум</li>
   <li><a href="https://nimfadostavka.ru/">Nimfa</a></li>
