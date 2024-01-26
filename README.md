@@ -23,19 +23,7 @@
   <li><a href="https://4estclub.ru/">Тату салон Честь</a> - на Tilda</li>
 </ul>
 
-<ul>
-  <h3>Сайты созданные на решении "Турбосайт" - Корпоративный сайт:</h3>
-  <li><a href="https://les-chambres-des-bruyres.fr/">Les chambres des bruyres</a></li>
-  <li><a href="https://meat-and-more.ru/">Meat and More</a></li>
-  <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
-  <li><a href="https://global-travel.su/">Global Travel</a></li>
-  <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
-  <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
-  <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
-  <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
-</ul>
-
-<br/>
+<br>
 
 <ul>
   <h3>Учавствовал в разработке проектов:</h3>
@@ -49,6 +37,27 @@
   <li><a href="https://astkapitan.ru/">Капитан</a></li>
   <li><a href="https://atmosfera30.ru/">Атмосфера</a></li>
   <li><a href="https://www.milkylangelo.ru/">Milky Langelo</a></li>
+</ul>
+
+<br>
+
+<ul>
+  <h3>Сайты созданные на решении "Турбосайт" - Визитка:</h3>
+  <li><a href="https://bx3.xelloy.ru/">Центурион консалтинг</a></li>
+  <li><a href="https://datalife.pro/">Datalife</a></li>
+</ul>
+
+<ul>
+  <h3>Сайты созданные на решении "Турбосайт" - Корпоративный сайт:</h3>
+  <li><a href="https://bx1.xelloy.ru/">Гидротекхника архитектурное бюро</a></li>
+  <li><a href="https://les-chambres-des-bruyres.fr/">Les chambres des bruyres</a></li>
+  <li><a href="https://meat-and-more.ru/">Meat and More</a></li>
+  <li><a href="https://astra-farm.ru/">ООО ПКФ «Астрахим»</a></li>
+  <li><a href="https://global-travel.su/">Global Travel</a></li>
+  <li><a href="https://fitnesslania.ru/">Fitneslania</a></li>
+  <li><a href="https://auto.turbosites.ru/">Moving Cars</a></li>
+  <li><a href="https://medicine.turbosites.ru/">Abria</a></li>
+  <li><a href="https://restaurant.turbosites.ru/">La Dolce Vita</a></li>
 </ul>
 
 <br/>
