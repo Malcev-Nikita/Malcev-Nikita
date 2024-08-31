@@ -75,7 +75,7 @@
   <a href="https://wa.me/+79896817945">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://t.me/nikitamalcev3">
+  <a href="https://t.me/mr_puer_0">
     <img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
